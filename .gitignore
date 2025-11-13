@@ -8,7 +8,7 @@ yarn-error.log*
 # ---------------------------------
 # Docker
 db_data/
-wp_data/
+wp_data/*
 !wp_data/wp-content/
 !wp_data/wp-content/themes/
 !wp_data/wp-content/themes/**
